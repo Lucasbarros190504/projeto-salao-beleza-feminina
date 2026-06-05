@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const SERVICOS = ["Corte", "Escova", "Coloração", "Manicure", "Sobrancelha", "Hidratação"];
+const SERVICOS = ["Corte", "Escova", "Coloração", "Cronograma Capilar", "Progressiva", "Hidratação"];
 const HORARIOS_SEMANA = ["13:00", "14:30", "16:00", "17:30", "19:00", "20:30"];
 const HORARIOS_SABADO = ["08:00", "09:30", "11:00", "12:30", "14:00", "15:30", "17:00", "18:30", "20:00"];
 
