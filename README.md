@@ -1,16 +1,26 @@
-# React + Vite
+# 💇 Agenda Fácil — Salão Beleza Feminina
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicativo web de agendamentos desenvolvido para o Salão Beleza Feminina, localizado em Ribeirão — PE.
 
-Currently, two official plugins are available:
+## 🔗 Acesse o app
+[https://projeto-salao-beleza-feminina-itoj.vercel.app](https://projeto-salao-beleza-feminina-itoj.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📋 Sobre o projeto
+Sistema de agendamento online desenvolvido como projeto de extensão universitária na disciplina de Programação para Dispositivos Móveis (UNIFBV Wyden).
 
-## React Compiler
+## ✅ Funcionalidades
+- Login da proprietária com senha
+- Cadastro e login de clientes
+- Agendamento de serviços com seleção de data e horário
+- Bloqueio automático de horários já ocupados
+- Painel da proprietária para visualização e cancelamento de agendamentos
+- Dados persistidos via localStorage
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tecnologias
+- React + Vite
+- JavaScript
+- localStorage
+- GitHub + Vercel
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👨‍💻 Desenvolvido por
+João Lucas Barros Cavalcante — UNIFBV Wyden, 2026
